@@ -14,6 +14,8 @@ Running `./mscz-differ.py a.mscz b.mscz` creates two new files
 
 `a-b.mscz` have exactly the same content as `a.mscz` with the only difference that **the elements not found in `b.mscz` are color highlighted**.
 
+![diff example](example.png)
+
 ## Usage Examples
 
  - finding differences among two versions of the same project (as already written above)
